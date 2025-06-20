@@ -13,7 +13,7 @@ I'm a data enthusiast with a passion for storytelling through data. These projec
 
 ## 🚀 Projects
 
-### 1. [📈 Bike Sales Dashboard]([https://github.com/poojithasaipri/Bike-Sales-Dashboard](https://github.com/poojithasaipri/Bike-Sales-Data-Dashboard-using-Excel))
+### 1. [📈 Bike Sales Dashboard](https://github.com/poojithasaipri/Bike-Sales-Data-Dashboard-using-Excel)
 - A professional dashboard project to analyze bike sales data.
 - Features:
   - Interactive filters for Region, Product Category, and Month
